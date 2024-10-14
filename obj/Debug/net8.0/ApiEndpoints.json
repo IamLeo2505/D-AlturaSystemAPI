@@ -1,0 +1,1043 @@
+[
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.Categor\u00EDaController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Categor\u00EDa/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Categor\u00EDa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.Categor\u00EDaController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Categor\u00EDa/EliminarDatos/{idcategoria}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcategoria",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.Categor\u00EDaController",
+    "Method": "Guardar",
+    "RelativePath": "api/Categor\u00EDa/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Categor\u00EDa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.Categor\u00EDaController",
+    "Method": "Listado",
+    "RelativePath": "api/Categor\u00EDa/Listado de Categor\u00EDas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.Categor\u00EDaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Categor\u00EDa/Obtener/{idcategoria}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcategoria",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Cliente/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Cliente/EliminarDatos/{idcliente}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
+    "Method": "Guardar",
+    "RelativePath": "api/Cliente/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
+    "Method": "Listado",
+    "RelativePath": "api/Cliente/Listado de Clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
+    "Method": "Obtener",
+    "RelativePath": "api/Cliente/Obtener/{idcliente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ComprasController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Compras/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Compra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ComprasController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Compras/Eliminar/{idcompra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcompra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ComprasController",
+    "Method": "Guardar",
+    "RelativePath": "api/Compras/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Compra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ComprasController",
+    "Method": "Lista",
+    "RelativePath": "api/Compras/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ComprasController",
+    "Method": "Obtener",
+    "RelativePath": "api/Compras/Obtener/{idcompra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcompra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.CreditoController",
+    "Method": "EditarCr\u00E9dito",
+    "RelativePath": "api/Credito/EditarCr\u00E9dito",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Cr\u00E9dito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.CreditoController",
+    "Method": "EliminarCr\u00E9dito",
+    "RelativePath": "api/Credito/EliminarCr\u00E9dito/{idcr\u00E9dito}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcr\u00E9dito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.CreditoController",
+    "Method": "GuardarCr\u00E9dito",
+    "RelativePath": "api/Credito/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Cr\u00E9dito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.CreditoController",
+    "Method": "ListadoCr\u00E9ditos",
+    "RelativePath": "api/Credito/Listado de Cr\u00E9ditos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.CreditoController",
+    "Method": "Obtener",
+    "RelativePath": "api/Credito/Obtener/{idcr\u00E9dito}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcr\u00E9dito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCompraController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/DetalleCompra/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleCompra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCompraController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/DetalleCompra/Eliminar/{iddetallecompra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iddetallecompra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCompraController",
+    "Method": "Guardar",
+    "RelativePath": "api/DetalleCompra/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleCompra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCompraController",
+    "Method": "Lista",
+    "RelativePath": "api/DetalleCompra/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCompraController",
+    "Method": "Obtener",
+    "RelativePath": "api/DetalleCompra/Obtener/{iddetallecompra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iddetallecompra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCreditoController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/DetalleCredito/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCreditoController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/DetalleCredito/Eliminar/{IdDetalleCr\u00E9dito}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDetalleCredito",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdDetalleCr\u00E9dito",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCreditoController",
+    "Method": "Guardar",
+    "RelativePath": "api/DetalleCredito/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCreditoController",
+    "Method": "Lista",
+    "RelativePath": "api/DetalleCredito/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleCreditoController",
+    "Method": "Obtener",
+    "RelativePath": "api/DetalleCredito/Obtener/{IdDetalleCr\u00E9dito}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDetalleCr\u00E9dito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleVentaController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/DetalleVenta/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleVenta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleVentaController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/DetalleVenta/Eliminar/{iddetalleventa}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iddetalleventa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleVentaController",
+    "Method": "Guardar",
+    "RelativePath": "api/DetalleVenta/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.DetalleVenta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleVentaController",
+    "Method": "Lista",
+    "RelativePath": "api/DetalleVenta/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DetalleVentaController",
+    "Method": "Obtener",
+    "RelativePath": "api/DetalleVenta/Obtener/{iddetalleventa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iddetalleventa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DevolucionesController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Devoluciones/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Devoluciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DevolucionesController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Devoluciones/EliminarDatos/{IdDevoluci\u00F3n}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdDevoluci\u00F3n",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DevolucionesController",
+    "Method": "Guardar",
+    "RelativePath": "api/Devoluciones/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Devoluciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DevolucionesController",
+    "Method": "Listado",
+    "RelativePath": "api/Devoluciones/Lista de Devoluciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.DevolucionesController",
+    "Method": "Obtener",
+    "RelativePath": "api/Devoluciones/Obtener/{IdDevoluci\u00F3n}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdDevoluci\u00F3n",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Empleado/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Empleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Empleado/EliminarDatos/{idempleado}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idempleado",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
+    "Method": "Guardar",
+    "RelativePath": "api/Empleado/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Empleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
+    "Method": "Listado",
+    "RelativePath": "api/Empleado/Lista de Empleados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
+    "Method": "Obtener",
+    "RelativePath": "api/Empleado/Obtener/{idempleado}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idempleado",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.MarcaController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Marca/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Marca",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.MarcaController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Marca/EliminarDatos/{idmarca}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idmarca",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.MarcaController",
+    "Method": "Guardar",
+    "RelativePath": "api/Marca/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Marca",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.MarcaController",
+    "Method": "Listado",
+    "RelativePath": "api/Marca/Listado de Marcas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.MarcaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Marca/Obtener/{idmarca}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idmarca",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProductoController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Producto/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProductoController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Producto/Eliminar/{idproducto}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idproducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProductoController",
+    "Method": "Guardar",
+    "RelativePath": "api/Producto/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProductoController",
+    "Method": "Lista",
+    "RelativePath": "api/Producto/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProductoController",
+    "Method": "Obtener",
+    "RelativePath": "api/Producto/Obtener/{idproducto}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idproducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProveedorController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Proveedor/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Proveedor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProveedorController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Proveedor/EliminarDatos/{idproveedor}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idproveedor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProveedorController",
+    "Method": "Guardar",
+    "RelativePath": "api/Proveedor/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Proveedor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProveedorController",
+    "Method": "Listado",
+    "RelativePath": "api/Proveedor/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ProveedorController",
+    "Method": "Obtener",
+    "RelativePath": "api/Proveedor/Obtener/{idproveedor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idproveedor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Usuarios/EditarDatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Usuarios/EliminarDatos/{idusuario}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idusuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "Guardar",
+    "RelativePath": "api/Usuarios/Guardar Cambios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "Listado",
+    "RelativePath": "api/Usuarios/Lista de Usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "Obtener",
+    "RelativePath": "api/Usuarios/Obtener/{idusuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idusuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.VentaController",
+    "Method": "EditarDatos",
+    "RelativePath": "api/Venta/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Venta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.VentaController",
+    "Method": "EliminarDatos",
+    "RelativePath": "api/Venta/Eliminar/{idventa}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idventa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.VentaController",
+    "Method": "Guardar",
+    "RelativePath": "api/Venta/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "D_AlturaSystemAPI.Modelos.Venta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.VentaController",
+    "Method": "Lista",
+    "RelativePath": "api/Venta/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.VentaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Venta/Obtener/{idventa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idventa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

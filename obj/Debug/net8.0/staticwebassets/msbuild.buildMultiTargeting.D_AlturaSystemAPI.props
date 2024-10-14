@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\D_AlturaSystemAPI.props" />
+</Project>
