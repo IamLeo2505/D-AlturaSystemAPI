@@ -1,6 +1,7 @@
 ﻿* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -19,10 +20,12 @@ body {
     justify-content: space-between;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
 }
 
 .panelLogo {
-    width: 400px;
+    flex: 1;
+    width: 380px;
     background-color: #2E8B57;
     display: flex;
     justify-content: center;
@@ -38,6 +41,7 @@ body {
 }
 
 .panelForm {
+    flex: 2;
     width: 100%;
     padding: 20px 30px;
     display: flex;
@@ -55,7 +59,7 @@ body {
 }
 
 input[type="text"], input[type="password"] {
-    width: 80%;
+    width: 85%;
     padding: 12px;
     margin-bottom: 15px;
     margin-left: 30px;
