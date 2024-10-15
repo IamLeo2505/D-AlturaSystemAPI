@@ -893,6 +893,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ReportesController",
+    "Method": "ObtenerDatosProveedores",
+    "RelativePath": "api/Reportes/ReporteProveedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
     "Method": "EditarDatos",
     "RelativePath": "api/Usuarios/EditarDatos",
