@@ -27,12 +27,22 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
+    <Compile Update="Reportes\dtVenta.Designer.cs">
+      <DependentUpon>dtVenta.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
     <None Update="Reportes\dtProveedor.xsd">
       <SubType>Designer</SubType>
       <LastGenOutput>dtProveedor.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="Reportes\dtVenta.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtVenta.Designer.cs</LastGenOutput>
       <Generator>MSDataSetGenerator</Generator>
     </None>
   </ItemGroup>

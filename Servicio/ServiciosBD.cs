@@ -26,5 +26,25 @@ namespace D_AlturaSystemAPI.Servicio
 
             return dt;
         }
+
+        public DataTable ObtenerDatosDeVenta()
+        {
+            DataTable datos = new();
+
+            string query = "SELECT * FROM vVentas";
+
+            string conexion = confi.GetConnectionString("ConnectSQL");
+
+            using (SqlConnection conn = new(conexion))
+            {
+                using SqlCommand cmd = new(query, conn);
+                conn.Open();
+
+                using SqlDataAdapter Data = new(cmd);
+                Data.Fill(datos);
+            }
+
+            return datos;
+        }
     }
 }

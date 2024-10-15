@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tbqxoHzctzhsYSXDNgLy7AMIBzxKVwD2dpCq+scL/0I=",
+  "Hash": "2jIYH5tj+ThOOZtaSI8NHbUr20KqIWHPP2f4BLAXrKI=",
   "Source": "D_AlturaSystemAPI",
   "BasePath": "_content/D_AlturaSystemAPI",
   "Mode": "Default",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login-reponsive.css",
       "SourceId": "D_AlturaSystemAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\",
       "BasePath": "_content/D_AlturaSystemAPI",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "css/login-reponsive.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\css\\login-reponsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\IMG\\favicon.ico",
+      "SourceId": "D_AlturaSystemAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\",
+      "BasePath": "_content/D_AlturaSystemAPI",
+      "RelativePath": "IMG/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\IMG\\Logo - Café de Altura.png",

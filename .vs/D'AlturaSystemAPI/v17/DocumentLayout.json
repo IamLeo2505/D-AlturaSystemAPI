@@ -3,20 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\servicio\\serviciosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:servicio\\serviciosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\servicio\\serviciosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:servicio\\serviciosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC37E4D-79E5-40B2-94EC-61AE07896626}|..\\ProyectoParaReportes\\ProyectoParaReportes.csproj|c:\\users\\usuario\\source\\repos\\proyectoparareportes\\compras.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\reportes\\ventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:reportes\\ventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +25,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T03:52:36.26Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Ventas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Reportes\\Ventas.rdlc",
+              "RelativeDocumentMoniker": "Reportes\\Ventas.rdlc",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Reportes\\Ventas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\Ventas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-15T17:43:08.194Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Compras.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoParaReportes\\Compras.rdlc",
+              "RelativeDocumentMoniker": "..\\ProyectoParaReportes\\Compras.rdlc",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoParaReportes\\Compras.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\ProyectoParaReportes\\Compras.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-15T17:26:11.15Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ServiciosBD.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Servicio\\ServiciosBD.cs",
               "RelativeDocumentMoniker": "Servicio\\ServiciosBD.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Servicio\\ServiciosBD.cs",
               "RelativeToolTip": "Servicio\\ServiciosBD.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:25:18.689Z",
+              "WhenOpened": "2024-10-15T16:46:26.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:24:39.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ReportesController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\ReportesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReportesController.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\ReportesController.cs",
               "RelativeToolTip": "Controllers\\ReportesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:22:19.673Z",
+              "WhenOpened": "2024-10-15T16:45:04.941Z",
               "EditorCaption": ""
             }
           ]

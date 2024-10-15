@@ -5,12 +5,16 @@
       "PackagePath": "staticwebassets\\IMG\\Logo - Café de Altura.png"
     },
     {
-      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login.css",
-      "PackagePath": "staticwebassets\\css\\login.css"
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\IMG\\favicon.ico",
+      "PackagePath": "staticwebassets\\IMG\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login-reponsive.css",
+      "PackagePath": "staticwebassets\\css\\login-reponsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\index.html",
