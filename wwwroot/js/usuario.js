@@ -8,7 +8,7 @@ document.getElementById('userForm').addEventListener('submit', function(e) {
     const estado = document.querySelector('input[name="estado"]:checked');
 
     // Validaciones
-    if (!usuario || !password || !estado) {
+    if (!usuario || !acceso || !password || !estado) {
         alert('Todos los campos deben ser completados');
         return;
     }
@@ -44,7 +44,7 @@ document.getElementById('userForm').addEventListener('submit', function(e) {
         document.getElementById('userForm').reset();
     })
     .catch(error => {
-        console.error('Error: ', error);
+        console.error('Error:', error);
         alert('Error registrando usuario.');
     })
 });

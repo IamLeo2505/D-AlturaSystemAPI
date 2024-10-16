@@ -1,18 +1,16 @@
-using D_AlturaSystemAPI.Modelos;
+
 using D_AlturaSystemAPI.Servicio;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 var MisReglasCors = "ReglasCors";
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectSQL")));
 
 builder.Services.AddCors(option => option.AddPolicy(name: MisReglasCors,
     builder =>
     {
         builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
     }
-    ));
+));
 
 // Add services to the container.
 

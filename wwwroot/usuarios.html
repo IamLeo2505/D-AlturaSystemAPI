@@ -47,5 +47,40 @@
     </div>
 
     <script src="js/usuario.js"></script>
+
+    <script>
+        
+        let url = 'http://localhost:5083/api/Usuarios/GuardarCambios'
+       
+       let usuarioData = {
+        usuario: "jsjkaksj",
+        pass: "46464",
+        acceso: "Administrador",
+        estado: "Activo"
+       };
+       
+       
+        fetch(url, 
+        {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(usuarioData)
+        })
+
+        .then(response => {
+        if (!response.ok) {
+            throw new Error('Error en la solicitud: ' + response.statusText);
+        }
+        return response.json(); // Extraer la respuesta como JSON
+    })
+    .then(data => {
+        console.log('Datos recibidos:', data); // Trabajar con la respuesta de la API
+    })
+    .catch(error => {
+        console.error('Error al realizar la solicitud:', error); // Manejar el error
+    });
+    </script>
 </body>
 </html>
