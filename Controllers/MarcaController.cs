@@ -2,9 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Data.SqlClient;
 using System.Data;
+using Microsoft.AspNetCore.Cors;
 
 namespace D_AlturaSystemAPI.Controllers
 {
+    [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
     public class MarcaController : Controller

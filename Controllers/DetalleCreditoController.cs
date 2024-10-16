@@ -5,9 +5,11 @@ using D_AlturaSystemAPI.Modelos;
 
 using System.Data;
 using System.Data.SqlClient;
+using Microsoft.AspNetCore.Cors;
 
 namespace D_AlturaSystemAPI.Controllers
 {
+    [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
     public class DetalleCreditoController : Controller

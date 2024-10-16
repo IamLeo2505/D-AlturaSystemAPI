@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\IMG\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\busquedausuarios.html",
+      "PackagePath": "staticwebassets\\busquedausuarios.html"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login-reponsive.css",
       "PackagePath": "staticwebassets\\css\\login-reponsive.css"
     },
@@ -17,12 +21,28 @@
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\usuario.css",
+      "PackagePath": "staticwebassets\\css\\usuario.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\usuarios.css",
+      "PackagePath": "staticwebassets\\css\\usuarios.css"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\usuario.js",
+      "PackagePath": "staticwebassets\\js\\usuario.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\usuarios.js",
+      "PackagePath": "staticwebassets\\js\\usuarios.js"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -251,6 +271,10 @@
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\usuarios.html",
+      "PackagePath": "staticwebassets\\usuarios.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.D_AlturaSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props",

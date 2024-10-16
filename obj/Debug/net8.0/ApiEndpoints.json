@@ -966,8 +966,8 @@
   },
   {
     "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
-    "Method": "Guardar",
-    "RelativePath": "api/Usuarios/Guardar Cambios",
+    "Method": "GuardarAsync",
+    "RelativePath": "api/Usuarios/GuardarCambios",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

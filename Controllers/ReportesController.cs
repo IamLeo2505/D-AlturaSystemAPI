@@ -1,10 +1,12 @@
 ﻿using AspNetCore.Reporting;
 using D_AlturaSystemAPI.Servicio;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace D_AlturaSystemAPI.Controllers
 {
+    [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
     public class ReportesController : ControllerBase
