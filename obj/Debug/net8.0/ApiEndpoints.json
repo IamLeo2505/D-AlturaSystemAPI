@@ -894,6 +894,26 @@
   },
   {
     "ContainingType": "D_AlturaSystemAPI.Controllers.ReportesController",
+    "Method": "ObtenerDatosCompras",
+    "RelativePath": "api/Reportes/ReporteCompra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ReportesController",
+    "Method": "ObtenerDatosProductos",
+    "RelativePath": "api/Reportes/ReporteProductos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.ReportesController",
     "Method": "ObtenerDatosProveedores",
     "RelativePath": "api/Reportes/ReporteProveedores",
     "HttpMethod": "GET",
