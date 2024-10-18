@@ -1,14 +1,15 @@
-
 using D_AlturaSystemAPI.Servicio;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 var MisReglasCors = "ReglasCors";
 
-
+// Configuración de CORS: Permitir solicitudes solo desde http://localhost:5083
 builder.Services.AddCors(option => option.AddPolicy(name: MisReglasCors,
     builder =>
     {
-        builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+        builder.WithOrigins("http://localhost:5083")  // Permite solo solicitudes desde el frontend en el puerto 5083
+               .AllowAnyHeader()
+               .AllowAnyMethod();
     }
 ));
 
@@ -29,7 +30,7 @@ app.UseStaticFiles();
 // Nota: Swagger se mueve al final para que no sobrescriba la página predeterminada
 app.UseHttpsRedirection();
 app.UseAuthorization();
-app.UseCors(MisReglasCors);
+app.UseCors(MisReglasCors); // CORS debe estar antes de MapControllers
 app.MapControllers();
 
 // Swagger y Swagger UI solo si es necesario y en desarrollo
