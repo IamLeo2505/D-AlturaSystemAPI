@@ -206,5 +206,52 @@ namespace D_AlturaSystemAPI.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, new { message = error.Message });
             }
         }
+
+        [HttpPost]
+        [Route("Login")]
+        public IActionResult Login([FromBody] Usuario loginRequest)
+        {
+            Usuario usuario = null;
+
+            try
+            {
+                using (var connection = new SqlConnection(ConnectSQLThree))
+                {
+                    connection.Open();
+                    var cmd = new SqlCommand("SELECT * FROM Usuario WHERE usuario = @usuario AND pass = @pass", connection);
+                    cmd.Parameters.AddWithValue("@usuario", loginRequest.usuario);
+                    cmd.Parameters.AddWithValue("@pass", loginRequest.pass);
+                    using (var rd = cmd.ExecuteReader())
+                    {
+                        if (rd.Read())
+                        {
+                            usuario = new Usuario()
+                            {
+                                idusuario = Convert.ToInt32(rd["idusuario"]),
+                                usuario = rd["usuario"].ToString(),
+                                pass = rd["pass"].ToString(),
+                                acceso = rd["acceso"].ToString(),
+                                estado = rd["estado"].ToString(),
+                                idempleado = Convert.ToInt32(rd["idempleado"]),
+                            };
+                        }
+                    }
+                }
+
+                if (usuario == null)
+                {
+                    return StatusCode(StatusCodes.Status404NotFound, new { message = "Usuario o contraseña incorrectos" });
+                }
+
+                return Ok(new { message = "Inicio de sesión exitoso", usuario });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new { message = ex.Message });
+            }
+        }
+
+
+
     }
 }
