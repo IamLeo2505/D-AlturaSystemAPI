@@ -209,7 +209,7 @@ BEGIN
     END;
 END;
 
-CREATE TRIGGER trg_validacion_cedula_empleado
+/*CREATE TRIGGER trg_validacion_cedula_empleado
 ON empleado
 after INSERT
 AS
@@ -221,6 +221,7 @@ BEGIN
         ROLLBACK TRANSACTION;
     END;
 END;
+*/
 
 CREATE TRIGGER trg_validacion_stock_venta
 ON detalleventa

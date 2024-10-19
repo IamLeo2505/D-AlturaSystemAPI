@@ -1,50 +1,45 @@
-document.getElementById('userForm').addEventListener('submit', function(e) {
-    e.preventDefault();
+console.log("Hola mundo")
 
+document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById('userForm').addEventListener('submit', function (event) {
+        event.preventDefault();
 
-    const usuario = document.getElementById('usuario').value.trim();
-    const password = document.getElementById('password').value.trim();
-    const acceso = document.getElementById('acceso').value;
-    const estado = document.querySelector('input[name="estado"]:checked');
+        const usuario = document.getElementById('usuario').value;
+        const pass = document.getElementById('password').value;
+        const acceso = document.getElementById('acceso').value;
+        const estado = document.getElementById('estado').value;
 
-    // Validaciones
-    if (!usuario || !acceso || !password || !estado) {
-        alert('Todos los campos deben ser completados');
-        return;
-    }
-
-    if (password.length < 6) {
-        alert('La contraseña debe tener al menos 6 caracteres');
-        return;
-    }
-
-   
-    const userData = {
-        usuario,
-        password,
-        acceso,
-        estado,
-    };
-
-    fetch('http://localhost:5083/api/Usuarios/GuardarCambios', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(userData)
-    })
-    .then(response => {
-        if (!response.ok){
-            throw new Error('Error en la Solicitud');
+        if (!usuario || !pass ) {
+            alert('Por favor, llene todos los campos.');
+            return;
         }
-        return response.json();
-    })
-    .then(data => {
-        alert(data.messager || 'Usuario registrado correctamente.');
-        document.getElementById('userForm').reset();
-    })
-    .catch(error => {
-        console.error('Error:', error);
-        alert('Error registrando usuario.');
-    })
+
+        fetch('http://localhost:5083/api/usuarios/GuardarCambios', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                usuario: usuario,
+                pass: pass,
+                acceso: acceso,
+                estado: estado
+            }),
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error en la solicitud');
+                }
+                return response.json();
+            })
+            .then(data => {
+                alert('Los datos se han guardado exitosamente.');
+                console.log(data);
+                
+            })
+            .catch(error => {
+                alert(error.message);
+                console.error('Error:', error);
+            });
+    });
 });

@@ -110,7 +110,7 @@ namespace D_AlturaSystemAPI.Controllers
         }
 
         [HttpPost]
-        [Route("Guardar Cambios")]
+        [Route("GuardarCambios")]
 
         public IActionResult Guardar([FromBody] Cliente objeto)
         {

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registrar Nuevo Usuario</title>
-    <link rel="stylesheet" href="css/usuario.css">
+    <link rel="stylesheet" href="css/RegistrarEmpleadoStyle.css">
 </head>
 <body>
     <div class="container">
@@ -29,7 +29,7 @@
                         <option value="Administrador">ADMINISTRADOR</option>
                     </select>
                 </div>
-                <div class="input">
+                <div id="estado" class="input">
                     <label>Seleccione Estado</label>
                     <div>
                         <input type="radio" id="activo" name="estado" value="Activo">
@@ -48,39 +48,6 @@
 
     <script src="js/usuario.js"></script>
 
-    <script>
-        
-        let url = 'http://localhost:5083/api/Usuarios/GuardarCambios'
-       
-       let usuarioData = {
-        usuario: "jsjkaksj",
-        pass: "46464",
-        acceso: "Administrador",
-        estado: "Activo"
-       };
-       
-       
-        fetch(url, 
-        {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(usuarioData)
-        })
-
-        .then(response => {
-        if (!response.ok) {
-            throw new Error('Error en la solicitud: ' + response.statusText);
-        }
-        return response.json(); // Extraer la respuesta como JSON
-    })
-    .then(data => {
-        console.log('Datos recibidos:', data); // Trabajar con la respuesta de la API
-    })
-    .catch(error => {
-        console.error('Error al realizar la solicitud:', error); // Manejar el error
-    });
-    </script>
+   
 </body>
 </html>

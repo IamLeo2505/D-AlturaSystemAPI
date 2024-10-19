@@ -7,8 +7,7 @@ begin
 end
 
 
-
-create proc pA_guardar_empleado(
+CREATE PROCEDURE pA_guardar_empleado(
 @nombre varchar(50),
 @apellidos varchar(50),
 @dni varchar(16),

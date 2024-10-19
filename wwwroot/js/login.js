@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const pass = document.getElementById('pass').value;
 
         if (!usuario || !pass) {
-            alert('Por favor, ingrese su usuario y contraseña.');
+            alert('Por favor, ingrese su usuario y contraseï¿½a.');
             return;
         }
 
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 return response.json();
             })
             .then(data => {
-                alert('Inicio de sesin exitoso');
+                alert('Inicio de sesion exitoso');
                 console.log(data); 
                 window.location.href = 'usuarios.html';
             })

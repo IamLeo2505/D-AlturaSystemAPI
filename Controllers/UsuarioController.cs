@@ -117,10 +117,7 @@ namespace D_AlturaSystemAPI.Controllers
 
         public  IActionResult GuardarCambios([FromBody] Usuario objeto)
         {
-            if (objeto == null || string.IsNullOrEmpty(objeto.usuario))
-            {
-                return BadRequest(new { message = "Los datos del usuario son invalidos" });
-            }
+       
 
             try
             {
@@ -215,7 +212,7 @@ namespace D_AlturaSystemAPI.Controllers
 
             try
             {
-                using (var connection = new SqlConnection(ConnectSQLThree))
+                using (var connection = new SqlConnection(ConnectSQL))
                 {
                     connection.Open();
                     var cmd = new SqlCommand("SELECT * FROM Usuario WHERE usuario = @usuario AND pass = @pass", connection);
