@@ -1,6 +1,30 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\Archivos Corregidos v(1)\\CSS\\RegistrarVentaCreditoStyle.css",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\Archivos Corregidos v(1)\\CSS\\RegistrarVentaCreditoStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\Archivos Corregidos v(1)\\RegistrarVentaCredito.html",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\Archivos Corregidos v(1)\\RegistrarVentaCredito.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\CSS\\Corercionesdistribucion3x3.css",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\CSS\\Corercionesdistribucion3x3.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\CSS\\Correcionesdistribuciones3x3.html",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\CSS\\Correcionesdistribuciones3x3.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\Correciones en progreso\\CSS\\RegistrarVentaCreditoStyle.css",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\Correciones en progreso\\CSS\\RegistrarVentaCreditoStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\D'Altura System HTML\\Correciones en progreso\\RegistrarVentaCredito.html",
+      "PackagePath": "staticwebassets\\D'Altura System HTML\\Correciones en progreso\\RegistrarVentaCredito.html"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\IMG\\Logo - Café de Altura.png",
       "PackagePath": "staticwebassets\\IMG\\Logo - Café de Altura.png"
     },
@@ -9,8 +33,84 @@
       "PackagePath": "staticwebassets\\IMG\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarCategoria.html",
+      "PackagePath": "staticwebassets\\RegistrarCategoria.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarCliente.html",
+      "PackagePath": "staticwebassets\\RegistrarCliente.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarCompra.html",
+      "PackagePath": "staticwebassets\\RegistrarCompra.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarEmpleado.html",
+      "PackagePath": "staticwebassets\\RegistrarEmpleado.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarProducto.html",
+      "PackagePath": "staticwebassets\\RegistrarProducto.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarProveedor.html",
+      "PackagePath": "staticwebassets\\RegistrarProveedor.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarUsuario.html",
+      "PackagePath": "staticwebassets\\RegistrarUsuario.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarVenta.html",
+      "PackagePath": "staticwebassets\\RegistrarVenta.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\RegistrarVentaCredito.html",
+      "PackagePath": "staticwebassets\\RegistrarVentaCredito.html"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\busquedausuarios.html",
       "PackagePath": "staticwebassets\\busquedausuarios.html"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\CorrecionVentaCredito.css",
+      "PackagePath": "staticwebassets\\css\\CorrecionVentaCredito.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\ListasStyle.css",
+      "PackagePath": "staticwebassets\\css\\ListasStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarCategoriaStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarCategoriaStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarClienteStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarClienteStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarCompraStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarCompraStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarEmpleadoStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarEmpleadoStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarProveedorStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarProveedorStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarUsuarioStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarUsuarioStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarVentaCreditoStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarVentaCreditoStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\RegistrarVentaStyle.css",
+      "PackagePath": "staticwebassets\\css\\RegistrarVentaStyle.css"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\css\\login-reponsive.css",
@@ -33,16 +133,20 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js",
+      "PackagePath": "staticwebassets\\js\\busquedausuarios.js"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\usuario.js",
-      "PackagePath": "staticwebassets\\js\\usuario.js"
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\registrarempleado.js",
+      "PackagePath": "staticwebassets\\js\\registrarempleado.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\usuarios.js",
-      "PackagePath": "staticwebassets\\js\\usuarios.js"
+      "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\js\\usuario.js",
+      "PackagePath": "staticwebassets\\js\\usuario.js"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\lib\\bootstrap\\LICENSE",

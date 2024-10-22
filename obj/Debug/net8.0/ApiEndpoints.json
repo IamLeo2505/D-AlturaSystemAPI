@@ -108,7 +108,7 @@
   {
     "ContainingType": "D_AlturaSystemAPI.Controllers.ClienteController",
     "Method": "Guardar",
-    "RelativePath": "api/Cliente/Guardar Cambios",
+    "RelativePath": "api/Cliente/GuardarCambios",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -630,8 +630,8 @@
   },
   {
     "ContainingType": "D_AlturaSystemAPI.Controllers.EmpleadoController",
-    "Method": "Guardar",
-    "RelativePath": "api/Empleado/Guardar Cambios",
+    "Method": "GuardarCambios",
+    "RelativePath": "api/Empleado/GuardarCambios",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -966,7 +966,7 @@
   },
   {
     "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
-    "Method": "GuardarAsync",
+    "Method": "GuardarCambios",
     "RelativePath": "api/Usuarios/GuardarCambios",
     "HttpMethod": "POST",
     "IsController": true,
@@ -988,6 +988,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D_AlturaSystemAPI.Controllers.UsuariosController",
+    "Method": "Login",
+    "RelativePath": "api/Usuarios/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "D_AlturaSystemAPI.Modelos.Usuario",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
