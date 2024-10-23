@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "oK07JTcxY/PwuyOAH/Vb6xPzrtyZNiNVFZJRx+eKyZE=",
+  "Hash": "w/Z/6wVHkzBN3vzHQGXqb/kfmDjGQe1BRyFzmtOZdjs=",
   "Source": "D_AlturaSystemAPI",
   "BasePath": "_content/D_AlturaSystemAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "D_AlturaSystemAPI\\wwwroot",
-      "Source": "D_AlturaSystemAPI",
-      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\D'AlturaSystemAPI\\wwwroot\\",
-      "BasePath": "_content/D_AlturaSystemAPI",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }

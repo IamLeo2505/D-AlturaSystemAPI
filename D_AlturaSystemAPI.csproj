@@ -8,9 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="FrontEnd\**" />
     <Compile Remove="wwwroot\**" />
+    <Content Remove="FrontEnd\**" />
     <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="FrontEnd\**" />
     <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="FrontEnd\**" />
     <None Remove="wwwroot\**" />
   </ItemGroup>
 

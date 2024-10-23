@@ -2,6 +2,7 @@ using D_AlturaSystemAPI.Servicio;
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 var MisReglasCors = "ReglasCors";
 
@@ -36,9 +37,6 @@ builder.Services.AddSingleton<ServiciosBD>();
 
 var app = builder.Build();
 
-// Sirve archivos estáticos desde wwwroot
-app.UseDefaultFiles();
-app.UseStaticFiles();
 
 // Configure the HTTP request pipeline.
 // Nota: Swagger se mueve al final para que no sobrescriba la página predeterminada

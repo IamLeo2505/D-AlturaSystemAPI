@@ -3,43 +3,61 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\view.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\d\u0027alturasystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:d\u0027alturasystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\wwwroot\\js\\registrarempleado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:wwwroot\\js\\registrarempleado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\wwwroot\\js\\busquedausuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:wwwroot\\js\\busquedausuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E862FA5F-FA3F-43E8-82C5-C347E29ED2CB}|..\\View\\View.csproj|c:\\users\\usuario\\source\\repos\\view\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\wwwroot\\registrarempleado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:wwwroot\\registrarempleado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\modelos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:modelos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACC37E4D-79E5-40B2-94EC-61AE07896626}|..\\ProyectoParaReportes\\ProyectoParaReportes.csproj|c:\\users\\usuario\\source\\repos\\proyectoparareportes\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|c:\\users\\usuario\\source\\repos\\d\u0027alturasystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D36F27-7353-407F-AF20-791501586037}|D_AlturaSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\js\\busquedausuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\RegistrarEmpleado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\RegistrarEmpleado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,45 +76,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:48:31.305Z",
+              "Title": "View.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\View.http",
+              "RelativeDocumentMoniker": "..\\View\\View.http",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\View.http",
+              "RelativeToolTip": "..\\View\\View.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-22T22:53:46.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "busquedausuarios.js",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\busquedausuarios.js",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js",
-              "RelativeToolTip": "wwwroot\\js\\busquedausuarios.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "D\u0027AlturaSystemAPI.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\D\u0027AlturaSystemAPI.http",
+              "RelativeDocumentMoniker": "D\u0027AlturaSystemAPI.http",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\D\u0027AlturaSystemAPI.http",
+              "RelativeToolTip": "D\u0027AlturaSystemAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-22T22:53:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "..\\View\\wwwroot\\js\\login.js",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "..\\View\\wwwroot\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-21T20:41:14.98Z",
+              "WhenOpened": "2024-10-22T22:40:12.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "registrarempleado.js",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\registrarempleado.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\registrarempleado.js",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\registrarempleado.js",
-              "RelativeToolTip": "wwwroot\\js\\registrarempleado.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-21T20:28:38.583Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "..\\View\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\wwwroot\\index.html",
+              "RelativeToolTip": "..\\View\\wwwroot\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-22T22:29:50.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\View\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\View\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T22:18:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\View\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\appsettings.json",
+              "RelativeToolTip": "..\\View\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T22:18:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Modelos\\Empleado.cs",
               "RelativeDocumentMoniker": "Modelos\\Empleado.cs",
@@ -104,25 +161,11 @@
               "RelativeToolTip": "Modelos\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:14:45.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:14:45.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\index.html",
-              "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-21T19:58:13.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
@@ -135,20 +178,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "login.js",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\login.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\login.js",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\login.js",
-              "RelativeToolTip": "wwwroot\\js\\login.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-21T19:30:53.676Z",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:27:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\View\\Program.cs",
+              "RelativeDocumentMoniker": "..\\View\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\View\\Program.cs",
+              "RelativeToolTip": "..\\View\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:59:07.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T21:58:45.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T21:58:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "busquedausuarios.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\busquedausuarios.js",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\js\\busquedausuarios.js",
+              "RelativeToolTip": "wwwroot\\js\\busquedausuarios.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T20:41:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:48:31.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "RegistrarEmpleado.html",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\wwwroot\\RegistrarEmpleado.html",
               "RelativeDocumentMoniker": "wwwroot\\RegistrarEmpleado.html",
@@ -156,25 +263,11 @@
               "RelativeToolTip": "wwwroot\\RegistrarEmpleado.html",
               "ViewState": "AgIAAEwAAAAAAAAAAAAAAEoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-21T19:25:28.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T19:25:28.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\D\u0027AlturaSystemAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T19:27:41.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Report1.rdlc [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoParaReportes\\Report1.rdlc",
               "RelativeDocumentMoniker": "..\\ProyectoParaReportes\\Report1.rdlc",
